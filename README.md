@@ -1,5 +1,5 @@
 # Web-scraping-and-sentiment-analysis
-Web scraping the contents of articles using url and then performing sentiment analysis on them.
+Web scraping the contents of articles using url and then performing ,sentiment analysis and readability analysis on them.
 
 The detailed instruction of tasks are in tasktodo doc
 
